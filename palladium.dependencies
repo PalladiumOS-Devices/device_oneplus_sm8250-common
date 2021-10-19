@@ -1,0 +1,16 @@
+[
+  {
+    "repository"   : "vendor_oneplus_sm8250-common",
+    "target_path"  : "vendor/oneplus/sm8250-common"
+  },
+  {
+    "repository"   : "chandu078/vendor_oneplus_addons_camera",
+    "target_path"  : "vendor/oneplus/addons/camera",
+    "branch"       : "eleven-9R",
+    "remote"       : "gitlab"
+  },
+  {
+    "repository"   : "kernel_oneplus_sm8250",
+    "target_path"  : "kernel/oneplus/sm8250"
+  }
+]
