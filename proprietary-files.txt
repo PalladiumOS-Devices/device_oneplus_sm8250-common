@@ -709,7 +709,7 @@ system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
 system_ext/framework/com.android.hotwordenrollment.common.util.jar
 
 # IFAA (system)
--system_ext/priv-app/IFAAService/IFAAService.apk;PRESIGNED
+-system_ext/priv-app/IFAAService/IFAAService.apk;PRESIGNED|77aa7c34026448a6dbbec5299a6c65e902e55a81
 
 # IFAA (vendor)
 vendor/bin/hw/vendor.oneplus.hardware.ifaa@2.0-service
