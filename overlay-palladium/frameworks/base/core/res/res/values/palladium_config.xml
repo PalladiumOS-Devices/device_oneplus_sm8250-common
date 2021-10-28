@@ -39,7 +39,10 @@
     <!-- Whether device has warp charging support -->
     <bool name="config_hasWarpCharger">true</bool>
 
-     <!-- If true, the display will be shifted around in ambient mode. -->
+    <!-- Whether device supports an alt. ambient display -->
+    <bool name="config_alt_ambient_display">true</bool>
+
+    <!-- If true, the display will be shifted around in ambient mode. -->
     <bool name="config_enableBurnInProtection">true</bool>
 
     <!-- Flag indicating whether we should enable the adaptive sleep.-->
